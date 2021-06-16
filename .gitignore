@@ -1,6 +1,8 @@
 *.log
 *.pyc
 config/__pycache__/
-db.splite3
+./db.splite3
+db.sqlite3
 myenv/
 .vscode/
+pybo/migrations/
