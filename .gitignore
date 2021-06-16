@@ -2,3 +2,5 @@
 *.pyc
 config/__pycache__/
 db.splite3
+myenv/
+.vscode/
